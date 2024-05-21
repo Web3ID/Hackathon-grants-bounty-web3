@@ -5,3 +5,4 @@ Awesome list of Hackathons, Grants and bounty in Blockchain/Web3
 - [Grant3](https://www.grant3.co/crypto-web3-grants)
 - [Gitcoin](https://grants.gitcoin.co/)
 - [Taikai Network](https://taikai.network/)
+- [Solana Grants](https://solana.org/grants-funding)
