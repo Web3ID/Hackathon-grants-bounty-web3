@@ -7,4 +7,4 @@ Awesome list of Hackathons, Grants and  bug or bounty in Blockchain/Web3
 - [Taikai Network](https://taikai.network/)
 - [Solana Grants](https://solana.org/grants-funding)
 - [DoraHacks](https://dorahacks.io/hackathon)
-[Codehawks](https://www.cyfrin.io/codehawks)
+- [Codehawks](https://www.cyfrin.io/codehawks)
