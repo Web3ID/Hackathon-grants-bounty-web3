@@ -1,5 +1,5 @@
 # Hackathon-grants-bounty-web3
-Awesome list of Hackathons, Grants and bounty in Blockchain/Web3 
+Awesome list of Hackathons, Grants and  bug or bounty in Blockchain/Web3 
 
 - [Web3 Foundation](https://grants.web3.foundation)
 - [Grant3](https://www.grant3.co/crypto-web3-grants)
@@ -7,3 +7,4 @@ Awesome list of Hackathons, Grants and bounty in Blockchain/Web3
 - [Taikai Network](https://taikai.network/)
 - [Solana Grants](https://solana.org/grants-funding)
 - [DoraHacks](https://dorahacks.io/hackathon)
+[Codehawks](https://www.cyfrin.io/codehawks)
