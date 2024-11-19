@@ -9,3 +9,4 @@ Awesome list of Hackathons, Grants and  bug or bounty in Blockchain/Web3
 - [DoraHacks](https://dorahacks.io/hackathon)
 - [Codehawks](https://www.cyfrin.io/codehawks)
 - [Bitte.ai by mintbase](https://github.com/Mintbase/Grants-Program)
+- [peaq.network](https://www.peaq.network/build/grant-program)
