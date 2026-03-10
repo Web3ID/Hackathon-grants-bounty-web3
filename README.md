@@ -14,3 +14,10 @@ Awesome list of Hackathons, Grants and  bug or bounty in Blockchain/Web3
 - [Solana x Indie.fun](https://hackathon.indie.fun)
 - [Hackquest](https://www.hackquest.io/hackathons)
 - [Base Grants](https://paragraph.com/@grants.base.eth/calling-based-builders)
+- [Tempo](https://hackathon.tempo.xyz/)
+- [Celo Public Goods](https://www.celopg.eco/programs)
+- [Ethereum Foundation](https://esp.ethereum.foundation/applicants)
+- [Hadron x Polygon](https://hadronfc.com/)
+- [Chainlink build](https://chain.link/build-program)
+- [StarkNet Grants](https://www.starknet.io/grants/)
+- 
