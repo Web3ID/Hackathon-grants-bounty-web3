@@ -12,4 +12,4 @@ Awesome list of Hackathons, Grants and  bug or bounty in Blockchain/Web3
 - [peaq.network](https://www.peaq.network/build/grant-program)
 - [Monad](https://hackathon.monad.xyz)
 - [Solana x Indie.fun](https://hackathon.indie.fun)
-- 
+- [Hackquest](https://www.hackquest.io/hackathons)
