@@ -13,3 +13,4 @@ Awesome list of Hackathons, Grants and  bug or bounty in Blockchain/Web3
 - [Monad](https://hackathon.monad.xyz)
 - [Solana x Indie.fun](https://hackathon.indie.fun)
 - [Hackquest](https://www.hackquest.io/hackathons)
+- [Base Grants](https://paragraph.com/@grants.base.eth/calling-based-builders)
