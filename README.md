@@ -20,4 +20,4 @@ Awesome list of Hackathons, Grants and  bug or bounty in Blockchain/Web3
 - [Hadron x Polygon](https://hadronfc.com/)
 - [Chainlink build](https://chain.link/build-program)
 - [StarkNet Grants](https://www.starknet.io/grants/)
-- 
+- [Stacks Grants](https://stacksendowment.co/grants)
