@@ -21,3 +21,4 @@ Awesome list of Hackathons, Grants and  bug or bounty in Blockchain/Web3
 - [Chainlink build](https://chain.link/build-program)
 - [StarkNet Grants](https://www.starknet.io/grants/)
 - [Stacks Grants](https://stacksendowment.co/grants)
+- [Canton Network](https://canton.foundation/grants-program)
